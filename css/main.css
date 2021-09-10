@@ -44,6 +44,10 @@ body {
     background: #999;
     width: 100%;
   }
+ .img-fluid {
+     height: 203px;
+     width: 263.50px;
+    }
 }
 
 h1,
