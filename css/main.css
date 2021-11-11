@@ -277,7 +277,7 @@ input[type="submit"]:focus {
         max-height: 80vh;
         min-height: inherit;
         text-align: center;
-        padding: 40px 30px 45px;
+        padding: 20px 30px 45px;
         overflow: auto;
     }
     .header-titles {}
